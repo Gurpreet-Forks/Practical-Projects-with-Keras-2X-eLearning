@@ -1,35 +1,32 @@
-[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Practical-Projects-with-Keras-2X.svg)](https://github.com/TrainingByPackt/Practical-Projects-with-Keras-2X/issues)
-[![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Python-Fundamentals-eLearning.svg)](https://github.com/TrainingByPackt/Python-Fundamentals-eLearning/network)
-[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Python-Fundamentals-eLearning.svg)](https://github.com/TrainingByPackt/Python-Fundamentals-eLearning/stargazers)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Python-Fundamentals-eLearning/pulls)
+[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Practical-Projects-with-Keras-2X-eLearning.svg)](https://github.com/TrainingByPackt/Practical-Projects-with-Keras-2X-eLearning/issues)
+[![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Practical-Projects-with-Keras-2X-eLearning.svg)](https://github.com/TrainingByPackt/Practical-Projects-with-Keras-2X-eLearning/network)
+[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Practical-Projects-with-Keras-2X-eLearning.svg)](https://github.com/TrainingByPackt/Practical-Projects-with-Keras-2X-eLearning/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Practical-Projects-with-Keras-2X-eLearning/pulls)
 
 
 
-# Python Fundamentals [eLearning]
-Python Fundamentals takes you from zero experience to a complete understanding of key concepts, edge cases, and using Python for real-world application development. You'll move progressively from the basics to working with larger complex applications. After completing this course, you'll have the skills you need to dive into an existing application or start your own project.
+# Practical Projects with Keras 2X [eLearning]
+Practical Projects with Keras 2.x teaches you various methods and techniques to develop neural networks and deep learning applications using Keras. With this course, you'll be able to build strong fundamentals of Keras in the areas of deep learning and artificial intelligence.
 
 ## What you will learn
-* Use control statements
-* Manipulate primitive and non-primitive data structures
-* Use loops to iterate over objects or data for accurate results
-* Write encapsulated and succinct Python functions
-* Build Python classes using object-oriented programming
-* Manipulate files on the file system (open, read, write, and delete)
+* Apply regression methods to your data and understand how the regression algorithm works
+* Import and organize data for neural network classification analysis
+* Solve a regression problem through the least squares algorithm
+* Use a classification algorithm to predict the outcome of an event
+* Train, test, and deploy a model in Keras environment
+* Implement multilayer neural networks in Keras
+* Improve the performance of a model by removing outliers
 
 ### Hardware requirements
 For an optimal learning experience, we recommend the following hardware configuration:
 * Processor: Intel Core i5 or equivalent
-* Memory: 8GB RAM
-* Storage: 4 GB available space
+* Memory: 4GB RAM (8 GB Preferred)
+* Storage: 35 GB available space
 
 ### Software requirements
 You must also install in advance the following software:
-* Operating system: Windows 7 or Windows 10
-* Browser: Google Chrome, Latest Version
-* Python 3.6+
-* A text editor
-
-
-
-
-
+* OS: Windows 7 SP1 64-bit, Windows 8.1 64-bit or Windows 10 64-bit, Ubuntu Linux, or the latest version of OS X
+* Browser: Google Chrome/Mozilla Firefox Latest Version
+* Notepad++/Sublime Text as IDE (Optional, as you can practice everything using Jupyter notebook on your browser)
+* Python 3.4+ (latest is Python 3.7) installed (from https://python.org)
+* Python libraries as needed (Jupyter, NumPy, Pandas, Matplotlib, BeautifulSoup4, and so)
